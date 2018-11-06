@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "benchmark": "^2.1.0",
-    "coffeeify": "^2.0.1",
+    "coffeeify": "^3.0.1",
     "jasmine-node": "^1.14.5"
   },
   "bin": {
